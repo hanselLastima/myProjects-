@@ -1,0 +1,15 @@
+# ignore filetypes
+
+.class 
+.zip
+
+# ignore logs
+
+.log
+
+# ignore folders
+Servers/*
+logs*
+.metadata/*
+
+/Servers/SpringSource tc Server Developer Edition v2.1-config/web.xml
